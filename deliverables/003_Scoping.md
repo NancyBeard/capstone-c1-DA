@@ -63,6 +63,7 @@ Different plots show how specific features changed from 2010 to 2019. Among the 
 - Distribution size housing occupancy by state (interactive changing by year)
 
 ## Interface draft
+![image](https://user-images.githubusercontent.com/107079148/172496652-b7752c49-59f2-4102-a96f-f9eab1f3d0b4.png)
 
 ## Concerns
 
